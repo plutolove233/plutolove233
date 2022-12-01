@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yizhigopher@foxmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
+
+<div><img src="https://metrics.lecoq.io/plutolove233?template=classic&config.timezone=Asia%2FShanghai"></div>
+
 <div> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plutolove233&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 

@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-- 🌱 I’m currently learning Golang/go-zero/docker/k8s
+- 🌱 I’m currently learning Golang/docker/pytorch/reinforce learning
 - 💬 Ask me about golang and anything I know
 - 📫 How to reach me: yizhigopher@foxmail.com
 

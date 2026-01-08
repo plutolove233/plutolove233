@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LaTeX数学公式编写](http://plutolove233.github.io/latex-math/)
+- [LaTeX介绍](http://plutolove233.github.io/latex-introduction/)
+- [深度包检测技术](http://plutolove233.github.io/dpi/)
+- [Fmt包介绍](http://plutolove233.github.io/fmt/)
+- [Go TCP编程](http://plutolove233.github.io/go-tcp/)
 <!-- BLOG-POST-LIST:END -->

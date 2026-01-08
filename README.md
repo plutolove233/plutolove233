@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about golang and anything I know
 - 📫 How to reach me: yizhigopher@foxmail.com
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [突破深度学习检测壁垒！LLM+RL范式生成对抗性流量，ASR超40%！](http://plutolove233.github.io/advtg/)
+- [IEEE模板说明](http://plutolove233.github.io/latex-ieee/)
 - [LaTeX数学公式编写](http://plutolove233.github.io/latex-math/)
 - [LaTeX介绍](http://plutolove233.github.io/latex-introduction/)
 - [深度包检测技术](http://plutolove233.github.io/dpi/)
-- [Fmt包介绍](http://plutolove233.github.io/fmt/)
-- [Go TCP编程](http://plutolove233.github.io/go-tcp/)
 <!-- BLOG-POST-LIST:END -->

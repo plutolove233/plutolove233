@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about golang and anything I know
 - 📫 How to reach me: yizhigopher@foxmail.com
 
+[plutolove233's GitHub stats](https://github-readme-stats.vercel.app/api?username=plutolove233)
+
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [突破深度学习检测壁垒！LLM+RL范式生成对抗性流量，ASR超40%！](http://plutolove233.github.io/advtg/)

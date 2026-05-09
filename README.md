@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about golang and anything I know
 - 📫 How to reach me: yizhigopher@foxmail.com
 
-[plutolove233's GitHub stats](https://github-readme-stats.vercel.app/api?username=plutolove233)
+![plutolove233's GitHub stats](https://github-readme-stats.vercel.app/api?username=plutolove233)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
